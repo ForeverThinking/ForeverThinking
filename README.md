@@ -27,7 +27,7 @@ I am experienced with:
 
 <br />
 
-Additionally, I'm exploring:
+I'm also exploring:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40" />
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="rust" alt="rust" width="40" height="40" />
