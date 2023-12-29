@@ -30,7 +30,7 @@ I am experienced with:
 
 I'm also exploring:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="40" height="40" />
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="rust" alt="rust" width="40" height="40" />
 </div>
 
