@@ -30,14 +30,9 @@ I am experienced with:
 
 I'm also exploring:
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
   <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="rust" alt="rust" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
 </div>
-
----
-
-### :bar_chart: My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ForeverThinking&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **ForeverThinking/ForeverThinking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
