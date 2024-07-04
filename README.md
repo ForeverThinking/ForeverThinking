@@ -23,7 +23,7 @@ I am experienced with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40" />
-  <img src="https://images.app.goo.gl/xRFioP9WPNzCgQmx8" title="neovim" alt="neovim" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" title="neovim" alt="neovim" width="40" height="40" />
 </div>
 
 <br />
