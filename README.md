@@ -23,14 +23,14 @@ I am experienced with:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" title="rider" alt="rider" width="40" height="40" />
+  <img src="https://images.app.goo.gl/xRFioP9WPNzCgQmx8" title="neovim" alt="neovim" width="40" height="40" />
 </div>
 
 <br />
 
 I'm also exploring:
 <div>
-  <img src="https://www.rust-lang.org/logos/rust-logo-256x256.png" title="rust" alt="rust" width="40" height="40" />
+  <img src="https://miro.medium.com/v2/resize:fit:400/1*Rgcubeti6JDVTwMPhcqBCQ.png" title="golang" alt="golang" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
 </div>
 
