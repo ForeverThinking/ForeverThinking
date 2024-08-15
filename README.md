@@ -34,6 +34,9 @@ I'm also exploring:
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
 </div>
 
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForeverThinking&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ForeverThinking/ForeverThinking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
