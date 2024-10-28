@@ -32,6 +32,7 @@ I'm also exploring:
 <div>
   <img src="https://miro.medium.com/v2/resize:fit:400/1*Rgcubeti6JDVTwMPhcqBCQ.png" title="golang" alt="golang" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" title="python" alt="python" width="36" height="40" />
 </div>
 
 <!--
