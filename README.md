@@ -1,18 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cyBjN2W4SQGFT4SscZ/giphy.gif" width="100"/>
-
-  <div id="badges" align="centre">
-    <a href="https://www.linkedin.com/in/dixon-mark/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
-    </a>
-  </div>
-</div>
-
----
-
 ### About Me
 
-Hello! I'm a .NET Core developer working in London, UK
+Hello there! I'm a .NET Core developer working in London, UK and I love tinkering with technology. From improving low-level understanding to thinking about high-level design, continuous learning is what I love about this profession.
+
+Find more information on my LinkedIn [here](www.linkedin.com/in/dixon-mark).
+
+<br />
 
 I am experienced with:
 <div>
@@ -31,6 +23,7 @@ I am experienced with:
 I'm also exploring:
 <div>
   <img src="https://miro.medium.com/v2/resize:fit:400/1*Rgcubeti6JDVTwMPhcqBCQ.png" title="golang" alt="golang" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/250px-C_Programming_Language.svg.png" title="c" alt="c" width="36" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" title="python" alt="python" width="36" height="40" />
 </div>
