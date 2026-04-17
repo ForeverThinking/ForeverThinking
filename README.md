@@ -1,32 +1,24 @@
-### About Me
+## About Me
 
 Hello there! I'm a .NET Core developer working in London, UK and I love tinkering with technology. From improving low-level understanding to thinking about high-level design, continuous learning is what I love about this profession.
 
 Find more information on my LinkedIn [here](www.linkedin.com/in/dixon-mark).
 
-<br />
+## My Experience
 
-I am experienced with:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="c-sharp" alt="c-sharp" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet" alt="dotnet" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgres" alt="postgres" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vs-code" alt="vs-code" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" title="neovim" alt="neovim" width="40" height="40" />
-</div>
+I've used the following extensively:
++ C#
++ Dotnet (.NET) Core
++ Azure
++ Docker
++ Git
++ Postgres
++ VS Code
++ Neovim
 
-<br />
-
-I'm also exploring:
-<div>
-  <img src="https://miro.medium.com/v2/resize:fit:400/1*Rgcubeti6JDVTwMPhcqBCQ.png" title="golang" alt="golang" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/250px-C_Programming_Language.svg.png" title="c" alt="c" width="36" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png" title="cpp" alt="cpp" width="36" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" title="python" alt="python" width="36" height="40" />
-</div>
+I'm also exploring and having fun with:
++ Go (Golang)
++ C
 
 <!--
 **ForeverThinking/ForeverThinking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
